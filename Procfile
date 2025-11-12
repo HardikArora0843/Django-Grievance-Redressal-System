@@ -1,0 +1,1 @@
+web: gunicorn Online_Grievance_Redressal_Portal.wsgi
